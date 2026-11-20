@@ -25,8 +25,8 @@
       "items": [
         {
           "name": {
-            "pl": "Tradycyjne Çiğköfte (Wegańskie)",
-            "en": "Traditional Çiğköfte (Vegan)"
+            "pl": "Tradycyjne Çiğköfte",
+            "en": "Traditional Çiğköfte"
           },
           "image": "./images/cigkofte.jpg",
           "description": {
@@ -62,8 +62,8 @@
         },
         {
           "name": {
-            "pl": "Kayseri Yağlaması (Şebit)",
-            "en": "Kayseri Yağlaması (Şebit)"
+            "pl": "Kayseri Yağlaması",
+            "en": "Kayseri Yağlaması"
           },
           "image": "./images/kayseri-yaglama.jpg",
           "description": {
