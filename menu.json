@@ -1,0 +1,101 @@
+{
+  "restaurantName": {
+    "pl": "Smaki Anatolii",
+    "en": "Anatolian Flavors"
+  },
+  "ui": {
+    "pl": {
+      "allTab": "Wszystkie",
+      "ingredientsTitle": "Składniki",
+      "errorMsg": "Nie udało się załadować menu. Użyj serwera lokalnego lub GitHub Pages."
+    },
+    "en": {
+      "allTab": "All",
+      "ingredientsTitle": "Ingredients",
+      "errorMsg": "Failed to load menu data. Please use a local server or GitHub Pages."
+    }
+  },
+  "categories": [
+    {
+      "id": "regional",
+      "title": {
+        "pl": "Dania Regionalne",
+        "en": "Regional Specialties"
+      },
+      "items": [
+        {
+          "name": {
+            "pl": "Tradycyjne Çiğköfte (Wegańskie)",
+            "en": "Traditional Çiğköfte (Vegan)"
+          },
+          "image": "./images/cigkofte.jpg",
+          "description": {
+            "pl": "Ręcznie wyrabiany tatar z drobnego bulguru z mieszanką aromatycznych tureckich przypraw, podawany ze świeżymi ziołami, lawaszem i sosem z granatu.",
+            "en": "Hand-kneaded fine bulgur mixed with aromatic Turkish spices, served with fresh greens, lavash bread, and pomegranate molasses."
+          },
+          "ingredients": {
+            "pl": [
+              "Ciemny drobny bulgur",
+              "Isot (papryka z Urfy)",
+              "Orzechy włoskie",
+              "Koncentrat pomidorowy i paprykowy",
+              "Melasa z granatu",
+              "Czosnek",
+              "Kmin rzymski, ziele angielskie, czarny pieprz",
+              "Lawasz, sałata, świeża mięta, cytryna"
+            ],
+            "en": [
+              "Dark fine bulgur",
+              "Isot (Urfa chili flakes)",
+              "Walnuts",
+              "Tomato and red pepper paste",
+              "Pomegranate molasses",
+              "Garlic",
+              "Cumin, allspice, black pepper",
+              "Lavash bread, lettuce, fresh mint, lemon"
+            ]
+          },
+          "tag": {
+            "pl": "Wegańskie / Ręcznie robione",
+            "en": "Vegan / Handmade"
+          }
+        },
+        {
+          "name": {
+            "pl": "Kayseri Yağlaması (Şebit)",
+            "en": "Kayseri Yağlaması (Şebit)"
+          },
+          "image": "./images/kayseri-yaglama.jpg",
+          "description": {
+            "pl": "Cienkie, ręcznie rozwałkowane placki şebit przekładane aromatycznym farszem z mięsa wołowego, pomidorów i przypraw, podawane z jogurtem czosnkowym.",
+            "en": "Thin, hand-rolled şebit flatbreads layered with spiced minced beef, tomatoes, and peppers, topped with garlic yogurt."
+          },
+          "ingredients": {
+            "pl": [
+              "Mięso mielone wołowe",
+              "Cebula",
+              "Zielona papryka i papryka kapia",
+              "Pomidory i koncentrat pomidorowy",
+              "Masło i olej roślinny",
+              "Gęsty jogurt czosnkowy",
+              "Sól, czarny pieprz, płatki chili"
+            ],
+            "en": [
+              "Minced beef",
+              "Onion",
+              "Green pepper and capia red pepper",
+              "Tomatoes and tomato paste",
+              "Butter and vegetable oil",
+              "Garlic strained yogurt",
+              "Salt, black pepper, chili flakes"
+            ]
+          },
+          "tag": {
+            "pl": "Podawane na gorąco",
+            "en": "Served Hot"
+          }
+        }
+      ]
+    }
+  ]
+}
